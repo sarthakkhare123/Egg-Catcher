@@ -1,5 +1,5 @@
 <h1>Egg Catcher</h1><br>
-Its an interesting game wriiten in Python <br><br>
+Its an interesting game written in Python <br><br>
 
 <h1>Imported Modules</h1>
 <br>
